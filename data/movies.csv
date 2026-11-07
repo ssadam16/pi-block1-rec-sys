@@ -1,0 +1,25 @@
+movieId,title,genres
+1,Inception (2010),Action|Adventure|Sci-Fi
+2,The Matrix (1999),Action|Sci-Fi
+3,Interstellar (2014),Adventure|Drama|Sci-Fi
+4,Arrival (2016),Drama|Sci-Fi
+5,The Martian (2015),Adventure|Drama|Sci-Fi
+6,Toy Story (1995),Animation|Comedy|Family
+7,Finding Nemo (2003),Animation|Adventure|Family
+8,Shrek (2001),Animation|Comedy|Fantasy
+9,Coco (2017),Animation|Drama|Family
+10,Spirited Away (2001),Animation|Adventure|Fantasy
+11,The Godfather (1972),Crime|Drama
+12,Goodfellas (1990),Crime|Drama
+13,The Dark Knight (2008),Action|Crime|Drama
+14,Pulp Fiction (1994),Crime|Drama
+15,Knives Out (2019),Comedy|Crime|Mystery
+16,The Grand Budapest Hotel (2014),Comedy|Drama
+17,La La Land (2016),Comedy|Drama|Music
+18,Whiplash (2014),Drama|Music
+19,Gladiator (2000),Action|Adventure|Drama
+20,Mad Max: Fury Road (2015),Action|Adventure|Sci-Fi
+21,Your Name (2016),Animation|Drama|Fantasy
+22,Jurassic Park (1993),Adventure|Sci-Fi|Thriller
+23,Parasite (2019),Comedy|Drama|Thriller
+24,The Lion King (1994),Animation|Adventure|Drama
